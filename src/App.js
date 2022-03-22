@@ -15,6 +15,7 @@ const App = () => {
   return (
     <div className='container'>
       <Header />
+      Alterado puta, obrigado pedro <3
     </div>
 
 /*<body>
@@ -25,7 +26,6 @@ const App = () => {
       </div>
       </div>
       </div>
-      
       
     </div>
     
